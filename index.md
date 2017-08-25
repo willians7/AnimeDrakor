@@ -32,32 +32,4 @@ fmM=
 =4PMe
 -----END PGP PUBLIC KEY BLOCK-----
 
-### Screenshots
-
-![Screenshot]({{ site.baseurl }}images/screenshot/01.png)
-
-![Screenshot]({{ site.baseurl }}images/screenshot/02.png)
-
-### Config file example
-
-~~~ yml
-# Site settings
-title: "willians7"
-bye_message: "Thx!"
-baseurl: "/AnimeDrakor/"
-url: "https://willians7.github.io"
-disqus: willians7
-
-# Header settings
-nick: "willians7"
-mail:
-    domain: "protonmail"
-    ext: "ch"
-source_code:
-    server: "github.com"
-    nick: "willians7"
-blog:
-    server: "wordpress.com"
-    nick: "willians7"
-
 ~~~
