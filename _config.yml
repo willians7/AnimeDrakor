@@ -1,0 +1,11 @@
+# Site settings
+title: "willians7"
+bye_message: "meh!"
+baseurl: "/AnimeDrakor/"
+url: "https://willians7.github.io"
+
+# Header settings
+nick: "willians7"
+source_code:
+    server: "github.com"
+    nick: "willians7"
